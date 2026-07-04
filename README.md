@@ -155,7 +155,7 @@ Shuffle automatically sent an email notification to the SOC analyst inbox:
 - **From:** Shuffle Email App
 - **Body:** Alert message for detecting Mimikatz in Wazuh
 
-![Email alert received in Gmail](screenshots/09-email-alert.png)
+![Email alert received in Gmail](screenshots/10-email-alert.png) 
 
 ---
 
