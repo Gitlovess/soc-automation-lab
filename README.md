@@ -127,7 +127,7 @@ The Shuffle workflow automatically:
 4. Sent the enriched alert to **TheHive**
 5. Sent an **email** to the SOC analyst
 
-![Shuffle workflow execution](screenshots/07-shuffle-workflow.png)
+![Shuffle workflow execution](screenshots/09-shuffle-workflow-success.png)
 
 ---
 
