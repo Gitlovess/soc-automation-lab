@@ -182,7 +182,8 @@ soc-automation-lab/
 ├── rules/
 │   └── local_rules.xml        # Custom Wazuh Mimikatz detection rule
 ├── docs/
-│   └── setup-notes.md         # Infrastructure setup notes
+│   ├── setup-notes.md
+│   └── incident-report.md     ← Formal SOC incident investigation
 └── screenshots/
     ├── 01-architecture-diagram.png
     ├── 02-mimikatz-execution.png
