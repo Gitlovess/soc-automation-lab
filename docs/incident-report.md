@@ -4,7 +4,7 @@
 |-------|---------|
 | **Report ID** | IR-2026-001 |
 | **Date** | 02 July 2026 |
-| **Analyst** | Vega Punk |
+| **Analyst** | Venkateshwaran |
 | **Severity** | 🔴 Critical |
 | **Status** | Resolved |
 | **MITRE ATT&CK** | T1003 — OS Credential Dumping |
