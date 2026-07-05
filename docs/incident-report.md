@@ -212,6 +212,3 @@ SOAR pipeline activated
 | Credential Guard | https://learn.microsoft.com/en-us/windows/security/identity-protection/credential-guard/ |
 
 ---
-
-*Report prepared by: Vega Punk | SOC Analyst*
-*Classification: TLP:AMBER — Internal Use Only*
