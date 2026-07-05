@@ -196,7 +196,10 @@ soc-automation-lab/
     └── 09-email-alert.png
 ```
 
----
+## 📄 Incident Report
+A formal SOC investigation report was written for this incident documenting 
+the full timeline, forensic evidence, IOCs, MITRE mapping, and containment 
+recommendations — viewable here: [IR-2026-001 — Mimikatz Credential Dumping](docs/incident-report.md)
 
 ## 🎯 Skills Demonstrated
 
